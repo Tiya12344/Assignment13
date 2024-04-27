@@ -5,3 +5,4 @@ def pattern1(num_of_js):
              print(i, end = " ")
         print("\n")
 pattern1(num_of_js)
+
